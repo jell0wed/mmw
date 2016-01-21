@@ -40,8 +40,15 @@ DIY series on how to take apart and analyze the OBAD android malware sample.
 
 [https://securityintelligence.com/diy-android-malware-analysis-taking-apart-obad-part-1/]
 
-
-
 #### Drozer
 
 [https://www.mwrinfosecurity.com/products/drozer/]
+
+#### Static Analysis techniques used for Android security Analyis
+
+Covers methods commonly used when performing static analysis of an Android Application.
+
+[http://www.cs.columbia.edu/~aho/cs6998/Lectures/14-12-01_Schmeelk_AndroidSecurity.pptx]
+
+
+
